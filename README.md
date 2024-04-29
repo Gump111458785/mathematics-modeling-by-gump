@@ -1,5 +1,6 @@
 数学建模C题初期代码
 ------
+实验环境：python 3.9<br>实验软件：pycharm 2023.2 <br>实验所用库需自行配置<br>
 main.py为主文件，其余文件分别对应如下：<br>
 ---
   1. “psnr.py” - 峰值信噪比;<br>
@@ -16,5 +17,7 @@ main.py为主文件，其余文件分别对应如下：<br>
   12. “vsnr.py” - VSNR 指标的值;<br>
   13. “fsim.py” - FSIM 指标的值;<br>
   14. “fsimc.py” - FSIM 指标的颜色版本值;<br>
-  15. “sharpness.py” -锐化等级之比;<br>
-ps：其余存在雷同未进行撰写<br>
+  15. “sharpness.py” -锐化等级之比;<br>ps：其余存在雷同未进行撰写<br>
+图片未完全展示，仅起演示作用，需进一步完善<br>权重未进行权衡需完善<br>代码来源：CSDN + chatgpt + 本人手搓
+
+
