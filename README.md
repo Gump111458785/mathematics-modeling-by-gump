@@ -1,7 +1,7 @@
 # mathematics-modeling-by-gump
 数学建模C题初期代码
 -------
-main.py为主文件，其余文件分别对应如下：
+main.py为主文件，其余文件分别对应如下：<br>
 “psnr.py” - 峰值信噪比;
 “y_psnr.tpy” - 为亮度分量计算的峰值信噪比;
 “ssim.py” - SSIM 指标的值;
