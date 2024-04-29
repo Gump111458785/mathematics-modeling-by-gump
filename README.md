@@ -23,6 +23,4 @@
 权重未进行权衡，后续衡量后请进一步完善<br>
 其余图片质检部分存在雷同未进行撰写，建议检查并完善<br>
 图片未完全展示，仅起演示作用，需进一步完善<br>
-代码来源：CSDN + chatgpt + [PyPI](https://pypi.com.cn/) + [w3schools 教程](https://www.w3ccoo.com/opencv_python) + 本人手搓
-
-
+代码来源：本人手搓 + [CSDN](https://blog.csdn.net/) + [chatgpt](https://chat.openai.com/) + [PyPI](https://pypi.com.cn/) + [w3schools 教程](https://www.w3ccoo.com/opencv_python)
